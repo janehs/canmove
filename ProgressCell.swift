@@ -8,6 +8,10 @@
 
 import UIKit
 
+/*
+ This class sets the cells of the progress table.
+*/
+
 class ProgressCell: UITableViewCell {
     
 
